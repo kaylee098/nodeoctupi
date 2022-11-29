@@ -1,4 +1,8 @@
+import chalk from 'chalk';
+
+
 console.log("I am so giddy today about octopi!!!!")
+console.log(chalk.blue('Hello world!'));
 
 // using github terminal:
 // git init
